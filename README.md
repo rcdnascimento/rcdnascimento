@@ -1,19 +1,9 @@
-### Oi, eu sou o Richard!
+## Oi, eu sou o Richard! 👨
 
-[![rcdwoods's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcdwoods)](https://github.com/rcdwoods/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcdwoods)](https://github.com/rcdwoods/github-readme-stats)
+- 🔭 Atualmente trabalho como Desenvolvedor Java Backend Jr
+- 🌱 Sou graduando em Sistemas de Informação na Universidade de São Paulo (USP)
 
-<!--
-**rcdwoods/rcdwoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="220px" src="https://github-readme-stats.vercel.app/api?username=rcdwoods"/>
+  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcdwoods"/>
+</div>
