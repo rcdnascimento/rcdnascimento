@@ -1,6 +1,6 @@
 ## Oi, eu sou o Richard! 👨
  
-- 🔭 Atualmente trabalho como Desenvolvedor Java Backend Jr
+- 🔭 Atualmente trabalho como Desenvolvedor Java/Kotlin Developer Jr.
 - 🌱 Sou graduando em Sistemas de Informação na Universidade de São Paulo (USP)
 
 <div>
