@@ -1,6 +1,6 @@
 ## Oi, eu sou o Richard! 👨
  
-- 🔭 Atualmente trabalho como Desenvolvedor Java/Kotlin Developer Jr na ília Digital.
+- 🔭 Atualmente trabalho como Java & Kotlin Developer na ília Digital.
 - 🌱 Sou graduando em Sistemas de Informação na Universidade de São Paulo (USP)
 
 <div>
