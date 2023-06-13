@@ -1,7 +1,8 @@
 ## Oi, eu sou o Richard! 👨
  
-- 🔭 Atualmente trabalho como Java & Kotlin Developer na ília Digital.
+- 🔭 Atualmente trabalho como Golang Developer no Mercado Livre 💛
 - 🌱 Sou graduando em Sistemas de Informação na Universidade de São Paulo (USP)
+- ☕  Java é minha linguagem do coração!
 
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rcdwoods"/>
