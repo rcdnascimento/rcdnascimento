@@ -1,6 +1,6 @@
 ## Oi, eu sou o Richard! 👨
  
-- 🔭 Atualmente trabalho como Golang Developer no Mercado Livre 💛
+- 🔭 Atualmente trabalho como Golang Software Engineer no Mercado Livre 💛
 - 🌱 Sou graduando em Sistemas de Informação na Universidade de São Paulo (USP)
 - ☕  Java é minha linguagem do coração!
 
