@@ -1,8 +1,8 @@
-## Oi, eu sou o Richard! 👨
- 
-- 🔭 Atualmente trabalho como Golang Software Engineer no Mercado Livre 💛
-- 🌱 Sou graduando em Sistemas de Informação na Universidade de São Paulo (USP)
-- ☕  Java é minha linguagem do coração!
+## Hi, I'm Richard! 👨
+
+🔭 Currently working as a Java & Golang Software Engineer at Mercado Livre 💛
+🌱 I'm a undergraduate student in Information Systems at the University of São Paulo (USP)
+☕ Java is my language of choice!
 
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rcdwoods"/>
