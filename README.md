@@ -4,11 +4,6 @@
 - 🌱 I'm a undergraduate student in Information Systems at the University of São Paulo (USP)
 - ☕ Java is my language of choice!
 
-<div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rcdwoods"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcdwoods"/>
-</div> 
-
 ##
 
 <div>
