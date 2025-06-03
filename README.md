@@ -1,8 +1,8 @@
 ## Hi, I'm Richard! 👨
  
-- 🔭 Currently working as a Java & Golang Software Engineer at Mercado Livre 💛
+- 🔭 Currently working as a Software Engineer at Nubank 💜
 - 🌱 I'm a undergraduate student in Information Systems at the University of São Paulo (USP)
-- ☕ Java is my language of choice!
+- ☕ Java, Clojure & Go
 
 ##
 
